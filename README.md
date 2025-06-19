@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  🚀 **Engenheiro de Software** | 📱 **Mobile & Web Developer** | 🏢 **Grupo Mateus**
+  **Engenheiro de Software** | **Mobile & Web Developer** | **Grupo Mateus**
   
-  📍 São Luís, MA | 🌐 [micaelgomes.com](https://micaelgomes.com) | 📧 [comercial@micaelgomes.com](mailto:comercial@micaelgomes.com)
+  📍 São Luís, MA | [micaelgomes.com](https://micaelgomes.com) | [comercial@micaelgomes.com](mailto:comercial@micaelgomes.com)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/micael-gomes-48b095133)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://micaelgomes.com)
@@ -16,13 +16,13 @@
 
 ---
 
-## 🚀 Sobre mim
+### Sobre mim
 
 Engenheiro de Software com **+8 anos de experiência** no desenvolvimento de soluções digitais para o varejo. Especializado em **arquiteturas escaláveis** que promovem qualidade e manutenibilidade, com forte atuação em aplicações corporativas de **alta performance**.
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,redux,nextjs,nodejs,java,spring,aws,docker,postgres,mongodb" alt="Tech Stack" />

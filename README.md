@@ -16,15 +16,13 @@
 
 ---
 
-### About me
+#### About me
 
 Software Engineer with **+8 years of experience** in developing digital solutions for retail. Specialized in **scalable architectures** that promote quality and maintainability, with strong expertise in **high-performance** corporate applications.
 
-**"Transforming complex challenges into elegant solutions"** 
-
 ---
 
-### Tech Stack
+#### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,redux,nextjs,nodejs,java,spring,aws,docker,postgres,mongodb" alt="Tech Stack" />
